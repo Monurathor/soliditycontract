@@ -1,7 +1,7 @@
-#MetaCrafters Solidity Course
+# MetaCrafters Solidity Course
 Welcome to the MetaCrafters Solidity Course! This course will guide you through the fundamentals of Solidity programming language and help you build a basic token contract called MyToken.sol.
 
-#Requirements
+# Requirements
 The contract should store the details about your coin, such as the token name, token abbreviation, and total supply.
 It should keep track of the balances of different addresses using a mapping.
 The contract should have a mint function that increases the total supply and the balance of a specific address.
