@@ -8,7 +8,7 @@ The contract should have a mint function that increases the total supply and the
 The contract should have a burn function that decreases the total supply and the balance of a specific address.
 The burn function should check if the balance of the address is greater than or equal to the amount to be burned.
 How to Run
-To run the MyToken.sol contract, follow these steps:
+# To run the MyToken.sol contract, follow these steps:
 
 Install Solidity Compiler: Make sure you have the Solidity compiler installed on your system. You can find the installation instructions on the Solidity website.
 
